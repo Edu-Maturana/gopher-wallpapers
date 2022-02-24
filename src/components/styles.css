@@ -38,7 +38,6 @@ h1 {
 
 .wallpaper img {
   border: #282c34 solid 2px;
-  border-radius: 10px;
   width: 750px;
   height: 422px;
   object-fit: cover;
@@ -104,7 +103,7 @@ h1 {
   }
 
   .content {
-    padding: 5px;
+    padding: 10px 0px; 
   }
   .wallpaper img {
     margin-bottom: -5px;
