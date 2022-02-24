@@ -7,6 +7,18 @@ function App() {
     <div className="App">
       <Header />
       <Content />
+      <footer>
+        <p className="footer-data">
+          Made with ❤️ {" "} by {" "}
+          <a
+            href="https://github.com/Edu-Maturana"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Edu Maturana
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }
