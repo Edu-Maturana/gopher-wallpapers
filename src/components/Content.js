@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import wallpapers from "..fetch/api/fetch";
+import {wallpapers} from "../api/fetch";
 
 export default function Content() {
   return (
